@@ -1,10 +1,6 @@
  
 # A Real Time Chatroom with translation and file editor
 
-### GUI Interface : 
-
-![Gui APP](https://i.ibb.co/vdvnyJn/cl1.png)
-
 ### Installation : 
 
  1. First clone the project repo from [Here](https://github.com/joeVenner/Python-Chat-Gui-App) 
