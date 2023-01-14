@@ -17,7 +17,9 @@ pip install transformers
 
 To install the chatroom:
 ```
-$ pip install tensorflow
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+pip install sentencepiece
+pip install transformers
 ```
     
 ![server](https://i.ibb.co/kSkn8jS/server.png)
