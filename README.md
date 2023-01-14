@@ -1,6 +1,5 @@
  
-[![JoeVenner](https://badgen.net/badge/Developer/joeVenner/blue?icon=github)](https://github.com/joeVenner/)<br>
-A simple Python Real Time Chat Application with GUI interface 
+A Real Time Chatroom with translation and file editor
 -
 ### GUI Interface : 
 
