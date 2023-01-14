@@ -3,7 +3,7 @@
 
 ### Installation : 
 
- 1. First clone the project repo from [Here](https://github.com/joeVenner/Python-Chat-Gui-App) 
+ 1. First clone the project repo from [Here](https://github.com/joeVenner/Python-Chat-Gui-App) <br>
 '''
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 '''
