@@ -5,9 +5,9 @@
 
  1. First clone the project repo from [Here](https://github.com/joeVenner/Python-Chat-Gui-App) 
  
- 'conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
- pip install sentencepiece
- pip install transformers'
+    conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+    pip install sentencepiece
+    pip install transformers
     
 ![server](https://i.ibb.co/kSkn8jS/server.png)
  
