@@ -13,6 +13,15 @@ pip install sentencepiece
 '''
 pip install transformers
 '''
+
+
+To install the current release, which includes support for
+[CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) *(Ubuntu and
+Windows)*:
+
+```
+$ pip install tensorflow
+```
     
 ![server](https://i.ibb.co/kSkn8jS/server.png)
  
