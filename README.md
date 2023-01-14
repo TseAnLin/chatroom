@@ -15,10 +15,7 @@ pip install transformers
 '''
 
 
-To install the current release, which includes support for
-[CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) *(Ubuntu and
-Windows)*:
-
+To install the chatroom:
 ```
 $ pip install tensorflow
 ```
