@@ -19,9 +19,7 @@ $ python server.py
 ```
 $ python client.py
 ```
-<div align="center">
-  <img src="./img/chat.png">
-</div>
+![chat_image](./img/chat.png)
   
 
 	 
