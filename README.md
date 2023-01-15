@@ -21,10 +21,10 @@ $ python client.py
 ```
 ### Display
 Chatroom UI
-![chat_image](./img/chat.png)
+<img src="./img/chat.png" width="600" height="400">
 
-Translate English text to Chinese
-![chat_image]<img src="./img/translation.png" width="200" height="200">
+Translate English text to Chinese <br>
+<img src="./img/translation.png" width="600" height="500">
 
   
 
