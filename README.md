@@ -1,7 +1,7 @@
  
 # A Real Time Chatroom with translation and file editor
 
-### Installation : 
+### Installation: 
 
 1. To install the chatroom:
 ```
@@ -10,7 +10,7 @@ $ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 $ pip install sentencepiece
 $ pip install transformers
 ```
-### Implementation
+### Implementation:
 1. Run server
 ```
 $ python server.py
@@ -19,13 +19,15 @@ $ python server.py
 ```
 $ python client.py
 ```
-### Display
-Chatroom UI
+### Display:
+Chatroom UI <br>
 <img src="./img/chat.png" width="600" height="400">
 
 Translate English text to Chinese <br>
 <img src="./img/translation.png" width="600" height="500">
 
+Co-editor txt file <br>
+<img src="./img/edit.png" width="600" height="500">
   
 
 	 
