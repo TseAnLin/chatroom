@@ -24,7 +24,7 @@ Chatroom UI
 ![chat_image](./img/chat.png)
 
 Translate English text to Chinese
-![chat_image](./img/translation.png)
+![chat_image]<img src="./img/translation.png" width="200" height="200">
 
   
 
