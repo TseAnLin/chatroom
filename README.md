@@ -26,7 +26,7 @@ Chatroom UI <br>
 Translate English text to Chinese <br>
 <img src="./img/translation.png" width="600" height="500">
 
-Co-editor txt file <br>
+Co-editor .txt file <br>
 <img src="./img/edit.png" width="600" height="500">
   
 
