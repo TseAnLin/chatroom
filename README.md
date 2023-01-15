@@ -19,7 +19,13 @@ $ python server.py
 ```
 $ python client.py
 ```
+### Display
+Chatroom UI
 ![chat_image](./img/chat.png)
+
+Translate English text to Chinese
+![chat_image](./img/translation.png)
+
   
 
 	 
